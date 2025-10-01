@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBurningRed
 - 👀 Interested in cars, sports, guns, business, crypto, moto, vr.
-- 🌱 Currently learning blockchain stuff. 
+- 🌱 Currently gaining Master Degree in Computer Science in Univercity. 
 - 💞️ I’m looking to collaborate on something interesting and useful.
 - 📫 How to reach me theburningred21@gmail.com
 
