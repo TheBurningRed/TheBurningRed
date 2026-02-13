@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TheBurningRed
-- 👀 Interested in tech, cars, sports, guns, business, crypto, moto, vr etc etc...
+- 💼 Profesionally build frontend applications with TypeScript and Angular
+- 👀 Interested in tech, cars
 - 🌱 Currently gaining Master Degree in Computer Science in Univercity. 
 - 💞️ I’m looking to collaborate on something interesting and useful.
 - 📫 How to reach me theburningred21@gmail.com
